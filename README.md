@@ -1,18 +1,12 @@
-# clean-it-up
-<h1 align="center"><project-name></h1>
 
-<p align="center"><project-description></p>
+<h1 align="center">clean-it-up</h1>
+
+<p align="center">refactored a site</p>
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
-
-- [Live](<Homepage url> "Live View")
-
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
-
-- [API](<API Link> "API")
+- [Live](https://mple06.github.io/clean-it-up-code-refactor/)
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+![Home Page](![image](https://user-images.githubusercontent.com/90426657/133862386-8f2e17ec-11c7-4dad-9bb7-90f7c2fa22ef.png))
