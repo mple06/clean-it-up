@@ -1,7 +1,7 @@
 
-<h1 align="center">clean-it-up</h1>
+## Code Refactor
 
-<p align="center">refactored a site</p>
+Refactored a site to clean up the code.
 
 ## Links
 
